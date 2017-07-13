@@ -1,0 +1,97 @@
+Lectin
+CUB-like region
+fatty acid metabolic process
+carbohydrate binding
+sugar binding
+Protein of unknown function DUF274
+CLECT
+C-type lectin
+lipid biosynthetic process
+Peptidase C1A, papain
+C-type lectin-like
+Peptidase C1A, papain C-terminal
+Biosynthesis of unsaturated fatty acids
+Pept_C1
+defense response
+Peptidase C1A, cathepsin B
+peroxisome
+microbody
+lipid catabolic process
+Glycoside hydrolase, subgroup, catalytic core
+cofactor binding
+cellular lipid catabolic process
+lipid modification
+alpha-Linolenic acid metabolism
+oxidoreductase
+ATPase, AAA+ type, core
+AAA
+Galectin, carbohydrate recognition domain
+Peptidase S16, ATP-dependent protease La
+Peptidase S16, lon C-terminal
+fatty acid biosynthetic process
+GLECT
+Lysosome
+lipase activity
+cysteine-type endopeptidase activity
+Fatty acid desaturase, type 1, core
+Peptidase S16, lon N-terminal
+Aminotransferase, class-II, pyridoxal-phosphate binding site
+LON
+Short-chain dehydrogenase/reductase SDR
+coenzyme binding
+endoplasmic reticulum
+thiol protease
+Protease
+chromatin
+Lipase, GDSL
+Fibrinogen, alpha/beta/gamma chain, C-terminal globular
+Sterol-binding
+Fibrinogen, alpha/beta/gamma chain, C-terminal globular, subdomain 1
+Peptidase S16, Lon protease, C-terminal region
+FBG
+Peptidase, cysteine peptidase active site
+Sphingolipid metabolism
+Rossmann-like alpha/beta/alpha sandwich fold
+ short sequence motif:Microbody targeting signal
+ABC transporter, N-terminal
+aging
+determination of adult life span
+multicellular organismal aging
+ cross-link:Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin)
+Concanavalin A-like lectin/glucanase, subgroup
+non-membrane-bounded organelle
+intracellular non-membrane-bounded organelle
+cysteine proteinase
+oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water
+chromosomal part
+Cytidyltransferase-related
+Acyl-CoA oxidase
+Aspartyl protease
+Fatty acid biosynthesis
+ PIRSF000168:Acyl-CoA_oxidase
+zymogen
+Acyl-CoA oxidase, C-terminal
+Cytidylyltransferase
+hydrolase
+peroxisome
+chromatin assembly or disassembly
+ PIRSF017543:PIRSF017543
+Glycerophospholipid metabolism
+ATP-dependent peptidase activity
+Fatty acid desaturase, type 1
+ABC transporter, conserved site
+ABC transporter-like
+cysteine-type peptidase activity
+fatty acid beta-oxidation
+fatty acid catabolic process
+organic acid biosynthetic process
+carboxylic acid biosynthetic process
+acyl-CoA oxidase activity
+oxidation reduction
+fatty acid oxidation
+lipid oxidation
+rhythmic process
+vitamin binding
+NAD(P)-binding domain
+Aminotransferase, class I and II
+oxidoreductase activity, acting on the CH-CH group of donors, oxygen as acceptor

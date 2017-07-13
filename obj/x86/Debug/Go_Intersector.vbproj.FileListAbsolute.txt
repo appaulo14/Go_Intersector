@@ -1,0 +1,15 @@
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\bin\Debug\Go_Intersector.exe
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\bin\Debug\Go_Intersector.pdb
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\bin\Debug\Go_Intersector.xml
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\Go_Intersector.Form1.resources
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\Go_Intersector.Resources.resources
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\Go_Intersector.exe
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\Go_Intersector.xml
+c:\users\paulcain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\Go_Intersector.pdb
+C:\Users\PaulCain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\bin\Debug\Go_Intersector.exe.manifest
+C:\Users\PaulCain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\bin\Debug\Go_Intersector.application
+C:\Users\PaulCain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\Go_Intersector.exe.manifest
+C:\Users\PaulCain\documents\visual studio 2010\Projects\Go_Intersector\Go_Intersector\obj\x86\Debug\Go_Intersector.application
